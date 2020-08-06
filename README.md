@@ -1,2 +1,6 @@
-# THE-Repository
-Jordan's First Repository
+# My First Project
+## **Course**: Geography 176A
+## **Name**: Jordan M
+## **Year**: Fourth
+## **Major**: Environmnetal science
+## **OS**: Mac
